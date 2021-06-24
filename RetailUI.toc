@@ -1,0 +1,12 @@
+## Interface: 20501
+## Title: Retail UI
+## Author: sebast_ian
+## Version: 2.0.3
+## Notes: World of Warcraft Retail's UI, recreated for TBC. Includes additional features
+## SavedVariables: RUI_SavedVars
+
+core.lua
+savedVariables.lua
+artFrames.xml
+optionsFrame.xml
+optionsFramePanels.xml
